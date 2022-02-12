@@ -1,4 +1,4 @@
-''' Version 0.0.1 Alpha
+''' Pre-release 
 February 10th, 2022 '''
 
 
