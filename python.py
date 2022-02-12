@@ -1,3 +1,7 @@
+''' Version 0.0.1 Alpha
+February 10th, 2022 '''
+
+
 import time
 import mouse
 time.sleep(2)
